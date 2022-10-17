@@ -17,7 +17,7 @@ function SideBar(){
                 {/*<!-- Sidebar - Brand -->*/}
                 <a className="sidebar-brand d-flex align-items-center justify-content-center" href="/">
                     <div className="sidebar-brand-icon">
-                        <img className="w-100" src={image} alt="Digital House"/>
+                        <img className="w-100" src={image} alt="BookStore"/>
                     </div>
                 </a>
 
@@ -56,7 +56,7 @@ function SideBar(){
                 <li className="nav-item nav-link">
                 <Link className="nav-link" to="/ContentRowMovies">
                         <i className="fas fa-fw fa-table"></i>
-                        <span>Datos metricos</span></Link>
+                        <span>Tabla</span></Link>
                 </li>
 
 {/*                 <li className="nav-item">

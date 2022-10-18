@@ -42,7 +42,7 @@ class LastMovie extends Component {
                       </div>
                       <p>{this.state.description}</p>
                       <p>{this.state.price}</p>
-                      <a className="btn btn-danger" target="_blank" rel="nofollow" href="http://localhost:3000/products/detail/58">View product detail</a>
+                      <a className="btn btn-danger" target="_blank" rel="nofollow" href="http://localhost:3000/LastMovieInDb">View product detail</a>
                   </div>
               </div>
           </div>
